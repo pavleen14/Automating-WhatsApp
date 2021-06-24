@@ -12,7 +12,7 @@ browser.get('https://web.whatsapp.com/')
 wait = WebDriverWait(browser, 600)
 #Sending a message to a single contact on WhatsApp
 target = '"Contact-1"' #target user
-string = "Message by python!" #target msg
+string = "Message sent using python!" #target msg
 x_arg = ' //span[contains(@title, ' + target +')]'
 target = wait.until(ec.presence_of_element_located((By.XPATH, x_arg)))
 target.click()
