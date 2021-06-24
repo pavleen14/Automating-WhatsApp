@@ -10,5 +10,8 @@ Use WhatsApp to send automated messages to your contacts through Selenium!
 <li>Customize your messages!</li>
 <li>Add attachments</li>
 <li>Run WhatsApp.py </li>
-
+<li>Scan the QR code </li>
 </ol>
+
+### Watch your messages deliver :)
+
