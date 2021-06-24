@@ -1,5 +1,5 @@
 # Automating-WhatsApp
-Use WhatsApp to send automated messages to your contact through Selenium!
+Use WhatsApp to send automated messages to your contacts through Selenium!
 
 <ol>
 <li>Install Selenium using Pip</li>
