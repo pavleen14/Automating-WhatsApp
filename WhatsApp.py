@@ -19,7 +19,7 @@ target.click()
  
 input_box = browser.find_element_by_class_name('_2A8P4')
 
-for i in range(20):#loops runs for 100 times
+for i in range(2):#loops runs for 2 times
     input_box.send_keys(string + Keys.ENTER)
 
 #Sending Image Attachment 
